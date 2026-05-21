@@ -1,3 +1,8 @@
+-=(SMS_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Sega Master System](https://en.wikipedia.org/wiki/Master_System)/[Game Gear](https://en.wikipedia.org/wiki/Game_Gear) for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/) and [MiST](https://github.com/mist-devel/mist-board/wiki)
 
 This core is a port of Ben's Sega Master System implementation for the Papilio. See [http://fpga-hacks.blogspot.de/](http://fpga-hacks.blogspot.de/).
